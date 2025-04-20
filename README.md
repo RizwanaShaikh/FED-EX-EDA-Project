@@ -1,4 +1,5 @@
 # FED-EX-EDA-Project
+https://colab.research.google.com/drive/18VbRo7E5vB48TiMkSPK5-HKD4MgbVBZd?usp=drive_link
 
 The primary objective of this project is to analyze the delivery performance of FedEx using historical shipment and supply chain data sourced from the SCMS Delivery History Dataset. The dataset provides a comprehensive record of delivery activity including vendor details, delivery status, timelines, regions, and various metrics related to order fulfillment and logistics. This analysis offers actionable insights to improve efficiency, enhance service reliability, and identify performance gaps in the delivery network.
 
